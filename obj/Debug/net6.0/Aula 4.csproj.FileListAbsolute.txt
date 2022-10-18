@@ -1,0 +1,15 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\obj\Debug\net6.0\Aula 4.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\obj\Debug\net6.0\Aula 4.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\obj\Debug\net6.0\Aula 4.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\obj\Debug\net6.0\Aula 4.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\obj\Debug\net6.0\Aula 4.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\bin\Debug\net6.0\Aula 4.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\bin\Debug\net6.0\Aula 4.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\bin\Debug\net6.0\Aula 4.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\bin\Debug\net6.0\Aula 4.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\bin\Debug\net6.0\Aula 4.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\obj\Debug\net6.0\Aula 4.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\obj\Debug\net6.0\refint\Aula 4.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\obj\Debug\net6.0\Aula 4.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\obj\Debug\net6.0\Aula 4.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Peter Montez\secharpe\Aula 4\obj\Debug\net6.0\ref\Aula 4.dll
